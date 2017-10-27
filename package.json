@@ -1,6 +1,6 @@
 {
   "name": "express-sns-validator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ExpressJS request validation middleware for Amazon SNS notifications",
   "keywords": [
     "express",
