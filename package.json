@@ -22,7 +22,7 @@
     "url": "https://github.com/compwright/express-sns-validator/issues"
   },
   "engines": {
-    "node": ">=6.4"
+    "node": ">=10"
   },
   "main": "src/",
   "scripts": {
@@ -31,16 +31,16 @@
     "test": "npm run eslint && npm run mocha"
   },
   "dependencies": {
-    "http-errors": "^1.6.2",
-    "sns-validator": "^0.3.2"
+    "http-errors": "^1.8.0",
+    "sns-validator": "^0.3.4"
   },
   "peerDependencies": {
     "express": "^4",
     "body-parser": "^1.4"
   },
   "devDependencies": {
-    "eslint": "^4.9.0",
-    "mocha": "^4.0.1",
-    "sinon": "^4.0.2"
+    "eslint": "^7.15.0",
+    "mocha": "^8.2.0",
+    "sinon": "^9.2.2"
   }
 }

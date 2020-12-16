@@ -1,12 +1,15 @@
 # express-sns-validator
 
 [![Build Status](https://travis-ci.org/compwright/express-sns-validator.svg?branch=master)](https://travis-ci.org/compwright/express-sns-validator)
+[![Dependency Status](https://img.shields.io/david/compwright/express-sns-validator.svg?style=flat-square)](https://david-dm.org/compwright/express-sns-validator)
+[![Download Status](https://img.shields.io/npm/dm/express-sns-validator.svg?style=flat-square)](https://www.npmjs.com/package/express-sns-validator)
+[![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
 
 ExpressJS middleware for verifying Amazon SNS notifications using [sns-validator](https://www.npmjs.com/package/sns-validator) (no dependency on the AWS SDK).
 
 ## Requirements
 
-* NodeJS 6.4+
+* NodeJS 10+
 * ExpressJS 4+
 * body-parser 1.4+
 
