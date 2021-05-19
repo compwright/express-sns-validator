@@ -35,12 +35,12 @@
     "sns-validator": "^0.3.4"
   },
   "peerDependencies": {
-    "express": "^4",
-    "body-parser": "^1.4"
+    "body-parser": "^1.4",
+    "express": "^4"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "mocha": "^8.2.0",
-    "sinon": "^9.2.2"
+    "eslint": "^7.26.0",
+    "mocha": "^8.4.0",
+    "sinon": "^10.0.0"
   }
 }
